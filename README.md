@@ -6,8 +6,8 @@ NOW FEATURE:
   using namespace BC::Base;
   auto b = new Obj();
   b->setNick("B");
-	b->setAutoRelease();
-	b->retain();、
+  b->setAutoRelease();
+  b->retain();、
   b->release();
 ```
 
@@ -15,7 +15,7 @@ NOW FEATURE:
 ```cxx
   using namespace BC::Var;
   String b = "This is a ";
-	b.add("example ");
+  b.add("example ");
   b.replaceAll(" ","_");
   b.launchc("SELECT %0 FROM %1 WHERE %2 ;", {"name", "person", "age>99"});
 ```
@@ -25,6 +25,7 @@ NOW FEATURE:
   using namespace BC::Var;
   Int a = new String()->launchc("%0%1%2", {"12", "57", "01"});
   Bool b = "true";
-  Var &v = a;
-  cout<<v.toString()<<b.toString()<<endl;
+  Var &va = a;
+  Var &vb = b;
+  cout<<va.toString()<<vb.toString()<<endl;
 ```
