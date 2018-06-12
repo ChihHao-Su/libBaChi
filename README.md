@@ -1,0 +1,2 @@
+# libBaChi
+Make C++ easier
