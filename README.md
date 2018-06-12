@@ -1,4 +1,5 @@
 # libBaChi
+LET C++ EASIER<del>more troublesome</del>.
 NOW FEATURE:
 
 ## 1.Base class with counting reference
