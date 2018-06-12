@@ -9,7 +9,7 @@ NOW FEATURE:
   b->setNick("B");
   b->setAutoRelease();
   b->retain();、
-  b->release();
+  b->release();           //b has been deleted
 ```
 
 ## 2.Easy-to-use string class
@@ -19,6 +19,7 @@ NOW FEATURE:
   b.add("example ");
   b.replaceAll(" ","_");
   b.launchc("SELECT %0 FROM %1 WHERE %2 ;", {"name", "person", "age>99"});
+  //Now b: "SELECT name FROM person WHERE age>99"
 ```
 
 ## 3.Uniform varible class
@@ -29,6 +30,7 @@ NOW FEATURE:
   Var &va = a;
   Var &vb = b;
   cout<<va.toString()<<vb.toString()<<endl;
+  //Now output: 125701true
 ```
 
 ## 4.Vector that contains BasicObj
@@ -36,7 +38,7 @@ NOW FEATURE:
   using namespace BS:Base;
   BasicVector<Var> a{
     String("蛤蛤蛤蛤蛤蛤蛤"),
-    Number(1233211233),
+    Number(1000),
     Boolean(true)
   };
   BasicVector<Var> b{
@@ -54,4 +56,8 @@ NOW FEATURE:
   for(Var &v  :  a){
     cout<<v.toString()<<endl;
   }
+  //Now output:
+  //蛤蛤蛤蛤蛤蛤蛤365416784
+  //4124
+  //true            
 ```
