@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1528716076 source:h:\lib_prog\libbachi_rebuild1\cvar\cint.cxx
+	"cInt.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\cvar\cint.h
+	<string>
+	<iostream>
+	<vector>
+	<cBase/cVec.h>
+	"cVar.h"
+	"stdStrStreamConv.h"
+
+1528733046 h:\lib_prog\libbachi_rebuild1\\cbase\cvec.h
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	"cObj.h"
+	"Baash_define.h"
+
+1528718922 h:\lib_prog\libbachi_rebuild1\\cbase\cobj.h
+	<string>
+	<vector>
+	"Baash_define.h"
+	"cBase.h"
+
+1528718276 h:\lib_prog\libbachi_rebuild1\\cbase\baash_define.h
+	<iostream>
+	<iomanip>
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cbase\cbase.h
+	<assert.h>
+
+1528716076 h:\lib_prog\libbachi_rebuild1\cvar\cvar.h
+	<string>
+	<vector>
+	<cBase/cBase.h>
+	<cBase/cApp.h>
+	<cBase/cObj.h>
+	<cBase/Baash_define.h>
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cbase\capp.h
+	"cObjManager.h"
+	"cObj.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cbase\cobjmanager.h
+	<string>
+	<iostream>
+	<map>
+	"cBase.h"
+	"Baash_define.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\cvar\stdstrstreamconv.h
+	<sstream>
+	<string>
+
+1528716076 source:h:\lib_prog\libbachi_rebuild1\cvar\cvar.cxx
+	"cVar.h"
+
+1528733460 source:h:\lib_prog\libbachi_rebuild1\cvar\cstring.cxx
+	"cString.h"
+
+1528733460 h:\lib_prog\libbachi_rebuild1\cvar\cstring.h
+	<string>
+	<iostream>
+	<vector>
+	<cBase/cVec.h>
+	"cVar.h"
+

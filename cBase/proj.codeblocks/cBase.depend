@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1528716076 source:h:\lib_prog\libbachi_rebuild1\cbase\capp.cxx
+	"cApp.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\cbase\capp.h
+	"cObjManager.h"
+	"cObj.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\cbase\cobjmanager.h
+	<string>
+	<iostream>
+	<map>
+	"cBase.h"
+	"Baash_define.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\cbase\cbase.h
+	<assert.h>
+
+1528718276 h:\lib_prog\libbachi_rebuild1\cbase\baash_define.h
+	<iostream>
+	<iomanip>
+
+1528718922 h:\lib_prog\libbachi_rebuild1\cbase\cobj.h
+	<string>
+	<vector>
+	"Baash_define.h"
+	"cBase.h"
+
+1528716076 source:h:\lib_prog\libbachi_rebuild1\cbase\cbase.cxx
+	"cBase.h"
+
+1528716076 source:h:\lib_prog\libbachi_rebuild1\cbase\cobj.cxx
+	"cObj.h"
+	"cApp.h"
+
+1528716076 source:h:\lib_prog\libbachi_rebuild1\cbase\cobjmanager.cxx
+	"cObjManager.h"
+
+1528734056 source:h:\lib_prog\libbachi_rebuild1\cbase\cvec.cxx
+	"cVec.h"
+
+1528734680 h:\lib_prog\libbachi_rebuild1\cbase\cvec.h
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	"cObj.h"
+	"Baash_define.h"
+

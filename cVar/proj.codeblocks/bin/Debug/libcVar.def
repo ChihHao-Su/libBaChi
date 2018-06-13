@@ -1,0 +1,94 @@
+EXPORTS
+    _Z12stdStrToTypeIdET_RKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @1
+    _Z12typeToStdStrIdENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKT_ @2
+    _ZN2BC3Var3Num3addERKNS0_7BaseVarE @3
+    _ZN2BC3Var3Num3addERKS1_ @4
+    _ZN2BC3Var3Num3assERKNS0_7BaseVarE @5
+    _ZN2BC3Var3Num3assERKS1_ @6
+    _ZN2BC3Var3Num3assEd @7
+    _ZN2BC3Var3Num3assEi @8
+    _ZN2BC3Var3Num4initEv @9
+    _ZN2BC3Var3NumC1ERKNS0_7BaseVarE @10
+    _ZN2BC3Var3NumC1ERKS1_ @11
+    _ZN2BC3Var3NumC1Ed @12
+    _ZN2BC3Var3NumC1Ei @13
+    _ZN2BC3Var3NumC1Ev @14
+    _ZN2BC3Var3NumC2ERKNS0_7BaseVarE @15
+    _ZN2BC3Var3NumC2ERKS1_ @16
+    _ZN2BC3Var3NumC2Ed @17
+    _ZN2BC3Var3NumC2Ei @18
+    _ZN2BC3Var3NumC2Ev @19
+    _ZN2BC3Var3NumD0Ev @20
+    _ZN2BC3Var3NumD1Ev @21
+    _ZN2BC3Var3NumD2Ev @22
+    _ZN2BC3Var6String10replaceAllERKS1_S3_ @23
+    _ZN2BC3Var6String3addERKNS0_7BaseVarE @24
+    _ZN2BC3Var6String3addERKS1_ @25
+    _ZN2BC3Var6String3assEPKc @26
+    _ZN2BC3Var6String3assERKNS0_7BaseVarE @27
+    _ZN2BC3Var6String3assERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @28
+    _ZN2BC3Var6String3assERKS1_ @29
+    _ZN2BC3Var6String4initEv @30
+    _ZN2BC3Var6String4trimEv @31
+    _ZN2BC3Var6String7launchcERKS1_RKNS_4Base11BasicVectorIS1_EE @32
+    _ZN2BC3Var6StringC1EPKc @33
+    _ZN2BC3Var6StringC1ERKNS0_7BaseVarE @34
+    _ZN2BC3Var6StringC1ERKS1_ @35
+    _ZN2BC3Var6StringC1Ev @36
+    _ZN2BC3Var6StringC2EPKc @37
+    _ZN2BC3Var6StringC2ERKNS0_7BaseVarE @38
+    _ZN2BC3Var6StringC2ERKS1_ @39
+    _ZN2BC3Var6StringC2Ev @40
+    _ZN2BC3Var6StringD0Ev @41
+    _ZN2BC3Var6StringD1Ev @42
+    _ZN2BC3Var6StringD2Ev @43
+    _ZN2BC3Var7BaseVar9onMessageENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIPNS_4Base8BasicObjESaISB_EE @44
+    _ZN2BC3Var7BaseVarC1Ev @45
+    _ZN2BC3Var7BaseVarC2Ev @46
+    _ZN2BC3Var7BaseVarD0Ev @47
+    _ZN2BC3Var7BaseVarD1Ev @48
+    _ZN2BC3Var7BaseVarD2Ev @49
+    _ZN9__gnu_cxx12__to_xstringINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEcEET_PFiPT0_jPKS8_PcEjSB_z @50
+    _ZN9__gnu_cxx17__is_null_pointerIcEEbPT_ @51
+    _ZNK2BC3Var3Num12getClassNameB5cxx11Ev @52
+    _ZNK2BC3Var3Num6isEqalERKNS0_7BaseVarE @53
+    _ZNK2BC3Var3Num6isEqalERKS1_ @54
+    _ZNK2BC3Var3Num7getDataEv @55
+    _ZNK2BC3Var3Num8toStringB5cxx11Ev @56
+    _ZNK2BC3Var3NummiERKS1_ @57
+    _ZNK2BC3Var3NumngEv @58
+    _ZNK2BC3Var3NumplERKS1_ @59
+    _ZNK2BC3Var6String12getClassNameB5cxx11Ev @60
+    _ZNK2BC3Var6String6isEqalERKNS0_7BaseVarE @61
+    _ZNK2BC3Var6String6isEqalERKS1_ @62
+    _ZNK2BC3Var6String7getDataB5cxx11Ev @63
+    _ZNK2BC3Var6String8toStringB5cxx11Ev @64
+    _ZNK2BC3Var7BaseVar12getClassNameB5cxx11Ev @65
+    _ZNK2BC4Base11BasicVectorINS_3Var6StringEEixEi @66
+    _ZNKSt6vectorIPN2BC4Base8BasicObjESaIS3_EEixEj @67
+    _ZNSt11char_traitsIcE7compareEPKcS2_j @68
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD1Ev @69
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPcEEvT_S7_ @70
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPcEEvT_S7_St20forward_iterator_tag @71
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_construct_auxIPcEEvT_S7_St12__false_type @72
+    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1IPcvEET_S7_RKS3_ @73
+    _ZNSt7__cxx119to_stringEd @74
+    _ZNSt7__cxx119to_stringEi @75
+    _ZSt10__distanceIPcENSt15iterator_traitsIT_E15difference_typeES2_S2_St26random_access_iterator_tag @76
+    _ZSt19__iterator_categoryIPcENSt15iterator_traitsIT_E17iterator_categoryERKS2_ @77
+    _ZSt4moveIRNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEONSt16remove_referenceIT_E4typeEOS8_ @78
+    _ZSt8distanceIPcENSt15iterator_traitsIT_E15difference_typeES2_S2_ @79
+    _ZSteqIcEN9__gnu_cxx11__enable_ifIXsrSt9__is_charIT_E7__valueEbE6__typeERKNSt7__cxx1112basic_stringIS3_St11char_traitsIS3_ESaIS3_EEESE_ @80
+    _ZStorSt13_Ios_OpenmodeS_ @81
+    _ZStplIcSt11char_traitsIcESaIcEENSt7__cxx1112basic_stringIT_T0_T1_EEOS8_S9_ @82
+    _ZTIN2BC3Var3NumE @83 DATA
+    _ZTIN2BC3Var6StringE @84 DATA
+    _ZTIN2BC3Var7BaseVarE @85 DATA
+    _ZTIN2BC4Base8BasicObjE @86 DATA
+    _ZTSN2BC3Var3NumE @87 DATA
+    _ZTSN2BC3Var6StringE @88 DATA
+    _ZTSN2BC3Var7BaseVarE @89 DATA
+    _ZTSN2BC4Base8BasicObjE @90 DATA
+    _ZTVN2BC3Var3NumE @91 DATA
+    _ZTVN2BC3Var6StringE @92 DATA
+    _ZTVN2BC3Var7BaseVarE @93 DATA

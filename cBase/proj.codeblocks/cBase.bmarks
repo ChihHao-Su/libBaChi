@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\cObjManager.h" open="1" top="0" tabpos="3">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="..\cVec.h" open="1" top="0" tabpos="5">
+		<Cursor position="1689" topLine="53" />
+	</File>
+	<File name="..\cVec.cxx" open="1" top="0" tabpos="7">
+		<Cursor position="1984" topLine="49" />
+	</File>
+	<File name="..\cObjManager.cxx" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="18" />
+	</File>
+	<File name="..\cObj.cxx" open="1" top="0" tabpos="2">
+		<Cursor position="91" topLine="0" />
+	</File>
+	<File name="..\cObj.h" open="1" top="0" tabpos="1">
+		<Cursor position="949" topLine="15" />
+	</File>
+	<File name="..\Baash_define.h" open="1" top="0" tabpos="6">
+		<Cursor position="135" topLine="0" />
+	</File>
+	<File name="..\cBase.cxx" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\cApp.cxx" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\cBase.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+</BrowseTracker_layout_file>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\cString.cxx" open="1" top="0" tabpos="2">
+		<Cursor position="1805" topLine="64" />
+		<BrowseMarks positions="1591" />
+	</File>
+	<File name="..\cString.h" open="1" top="1" tabpos="1">
+		<Cursor position="966" topLine="22" />
+	</File>
+	<File name="..\cInt.h" open="1" top="0" tabpos="4">
+		<Cursor position="301" topLine="9" />
+	</File>
+	<File name="..\cInt.cxx" open="1" top="0" tabpos="3">
+		<Cursor position="148" topLine="0" />
+	</File>
+</BrowseTracker_layout_file>

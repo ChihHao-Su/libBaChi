@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1528733478 source:h:\lib_prog\libbachi_rebuild1\testall\main.cpp
+	<stdio.h>
+	<gtest/gtest.h>
+	<cBase/cObj.h>
+	<cBase/cVec.h>
+	<cVar/cString.h>
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest.h
+	<limits>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-string.h"
+	"gtest/gtest-death-test.h"
+	"gtest/gtest-message.h"
+	"gtest/gtest-param-test.h"
+	"gtest/gtest-printers.h"
+	"gtest/gtest_prod.h"
+	"gtest/gtest-test-part.h"
+	"gtest/gtest-typed-test.h"
+	"gtest/gtest_pred_impl.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-internal.h
+	"gtest/internal/gtest-port.h"
+	<stdlib.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<iomanip>
+	<limits>
+	<set>
+	"gtest/internal/gtest-string.h"
+	"gtest/internal/gtest-filepath.h"
+	"gtest/internal/gtest-type-util.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-port.h
+	<ctype.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<iostream>
+	<sstream>
+	<string>
+	<unistd.h>
+	<strings.h>
+	<direct.h>
+	<io.h>
+	<regex.h>
+	<typeinfo>
+	<pthread.h>
+	<time.h>
+	"gtest/internal/gtest-tuple.h"
+	<tuple>
+	<tr1/tuple>
+	<tr1/tuple>
+	<tuple>
+	<vector>
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-tuple.h
+	<utility>
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-string.h
+	<mem.h>
+	<string.h>
+	"gtest/internal/gtest-port.h"
+	<string>
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-filepath.h
+	"gtest/internal/gtest-string.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-type-util.h
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-string.h"
+	<cxxabi.h>
+	<acxx_demangle.h>
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest-death-test.h
+	"gtest/internal/gtest-death-test-internal.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-death-test-internal.h
+	"gtest/internal/gtest-internal.h"
+	<stdio.h>
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest-message.h
+	<limits>
+	"gtest/internal/gtest-string.h"
+	"gtest/internal/gtest-internal.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest-param-test.h
+	"gtest/internal/gtest-port.h"
+	<utility>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-param-util.h"
+	"gtest/internal/gtest-param-util-generated.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-param-util.h
+	<iterator>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-linked_ptr.h"
+	"gtest/internal/gtest-port.h"
+	"gtest/gtest-printers.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-linked_ptr.h
+	<stdlib.h>
+	<assert.h>
+	"gtest/internal/gtest-port.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest-printers.h
+	<ostream>
+	<sstream>
+	<string>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-internal.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\internal\gtest-param-util-generated.h
+	"gtest/internal/gtest-param-util.h"
+	"gtest/internal/gtest-port.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest_prod.h
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest-test-part.h
+	<iosfwd>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-string.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest-typed-test.h
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-type-util.h"
+
+1303154760 h:\lib_prog\libbachi_rebuild1\thirdparty\googletest-release-1.6.0\include\gtest\gtest_pred_impl.h
+
+1528718922 h:\lib_prog\libbachi_rebuild1\\cbase\cobj.h
+	<string>
+	<vector>
+	"Baash_define.h"
+	"cBase.h"
+
+1528718276 h:\lib_prog\libbachi_rebuild1\\cbase\baash_define.h
+	<iostream>
+	<iomanip>
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cbase\cbase.h
+	<assert.h>
+
+1528734740 h:\lib_prog\libbachi_rebuild1\\cbase\cvec.h
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	"cObj.h"
+	"Baash_define.h"
+
+1528733460 h:\lib_prog\libbachi_rebuild1\\cvar\cstring.h
+	<string>
+	<iostream>
+	<vector>
+	<cBase/cVec.h>
+	"cVar.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cvar\cvar.h
+	<string>
+	<vector>
+	<cBase/cBase.h>
+	<cBase/cApp.h>
+	<cBase/cObj.h>
+	<cBase/Baash_define.h>
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cbase\capp.h
+	"cObjManager.h"
+	"cObj.h"
+
+1528716076 h:\lib_prog\libbachi_rebuild1\\cbase\cobjmanager.h
+	<string>
+	<iostream>
+	<map>
+	"cBase.h"
+	"Baash_define.h"
+
